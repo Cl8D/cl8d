@@ -1,7 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FCC89F,20:EAB8C0,40:FFA5AB,60:D99FFF,80:A8D4FE,100:7ACCDB&height=250&fontColor=ffffff&section=header&text=Jiwon's%20Github&fontSize=90&animation=fadeIn)
-<h3>Hi there👋🏻</h3> 
+<h3>Hi there👋🏻</h3>
 
 <pre><code>📧 Email: ljwon77@daum.net
 📑 I'm a student studying at Soongsil univ, Department of Software.
@@ -37,7 +37,7 @@ I've used at least once :)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cl8d&hide=jupyter%20notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cl8d&theme=buefy&hide=jupyter%20notebook&layout=compact)
 
 ***
 
