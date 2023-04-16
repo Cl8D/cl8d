@@ -21,19 +21,14 @@ I've used at least once :)
 <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?&logo=Springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/VsCode-007ACC?logo=visualstudiocode&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/Intellij-000000?logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white">
+
 
 <br>
 
